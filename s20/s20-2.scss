@@ -1,0 +1,28 @@
+$r:100;
+$h:25px;
+$s:2s;
+$w:0.2s;
+body{
+    background: rgb(0, 0, 0);
+    overflow: hidden;
+}
+@for $i from 1 through 100{
+    .block_#{$i}{
+        animation: wave infinite 3s ease-in-out ;
+        animation-delay: $w * ($i+2);
+        position: absolute;
+        border: 1px solid yellowgreen;
+        margin-top: -$h;
+        left: (100% / $r) * ($i - 1);;
+        top: $h;
+        height: $h;
+        width: 10px;
+        @keyframes wave {
+            50% {
+                top: 100%;
+                border-color:rgb(130, 40, 40);
+            }
+            
+        }
+    }
+}

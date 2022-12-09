@@ -1,0 +1,2010 @@
+body {
+  background: rgb(0, 0, 0);
+  overflow: hidden;
+}
+
+.block_1 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 0.6s;
+          animation-delay: 0.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 0%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@-webkit-keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_2 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 0.8s;
+          animation-delay: 0.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 1%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_3 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 2%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_4 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 1.2s;
+          animation-delay: 1.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 3%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_5 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 1.4s;
+          animation-delay: 1.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 4%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_6 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 1.6s;
+          animation-delay: 1.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 5%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_7 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 1.8s;
+          animation-delay: 1.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 6%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_8 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 7%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_9 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 2.2s;
+          animation-delay: 2.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 8%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_10 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 2.4s;
+          animation-delay: 2.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 9%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_11 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 2.6s;
+          animation-delay: 2.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 10%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_12 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 2.8s;
+          animation-delay: 2.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 11%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_13 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 3s;
+          animation-delay: 3s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 12%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_14 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 3.2s;
+          animation-delay: 3.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 13%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_15 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 3.4s;
+          animation-delay: 3.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 14%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_16 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 3.6s;
+          animation-delay: 3.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 15%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_17 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 3.8s;
+          animation-delay: 3.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 16%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_18 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 4s;
+          animation-delay: 4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 17%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_19 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 4.2s;
+          animation-delay: 4.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 18%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_20 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 4.4s;
+          animation-delay: 4.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 19%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_21 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 4.6s;
+          animation-delay: 4.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 20%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_22 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 4.8s;
+          animation-delay: 4.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 21%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_23 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 5s;
+          animation-delay: 5s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 22%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_24 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 5.2s;
+          animation-delay: 5.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 23%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_25 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 5.4s;
+          animation-delay: 5.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 24%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_26 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 5.6s;
+          animation-delay: 5.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 25%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_27 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 5.8s;
+          animation-delay: 5.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 26%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_28 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 6s;
+          animation-delay: 6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 27%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_29 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 6.2s;
+          animation-delay: 6.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 28%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_30 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 6.4s;
+          animation-delay: 6.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 29%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_31 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 6.6s;
+          animation-delay: 6.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 30%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_32 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 6.8s;
+          animation-delay: 6.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 31%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_33 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 7s;
+          animation-delay: 7s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 32%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_34 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 7.2s;
+          animation-delay: 7.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 33%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_35 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 7.4s;
+          animation-delay: 7.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 34%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_36 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 7.6s;
+          animation-delay: 7.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 35%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_37 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 7.8s;
+          animation-delay: 7.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 36%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_38 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 8s;
+          animation-delay: 8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 37%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_39 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 8.2s;
+          animation-delay: 8.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 38%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_40 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 8.4s;
+          animation-delay: 8.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 39%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_41 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 8.6s;
+          animation-delay: 8.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 40%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_42 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 8.8s;
+          animation-delay: 8.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 41%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_43 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 9s;
+          animation-delay: 9s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 42%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_44 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 9.2s;
+          animation-delay: 9.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 43%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_45 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 9.4s;
+          animation-delay: 9.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 44%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_46 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 9.6s;
+          animation-delay: 9.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 45%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_47 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 9.8s;
+          animation-delay: 9.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 46%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_48 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 10s;
+          animation-delay: 10s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 47%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_49 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 10.2s;
+          animation-delay: 10.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 48%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_50 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 10.4s;
+          animation-delay: 10.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 49%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_51 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 10.6s;
+          animation-delay: 10.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 50%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_52 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 10.8s;
+          animation-delay: 10.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 51%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_53 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 11s;
+          animation-delay: 11s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 52%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_54 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 11.2s;
+          animation-delay: 11.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 53%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_55 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 11.4s;
+          animation-delay: 11.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 54%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_56 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 11.6s;
+          animation-delay: 11.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 55%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_57 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 11.8s;
+          animation-delay: 11.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 56%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_58 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 12s;
+          animation-delay: 12s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 57%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_59 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 12.2s;
+          animation-delay: 12.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 58%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_60 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 12.4s;
+          animation-delay: 12.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 59%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_61 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 12.6s;
+          animation-delay: 12.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 60%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_62 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 12.8s;
+          animation-delay: 12.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 61%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_63 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 13s;
+          animation-delay: 13s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 62%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_64 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 13.2s;
+          animation-delay: 13.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 63%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_65 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 13.4s;
+          animation-delay: 13.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 64%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_66 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 13.6s;
+          animation-delay: 13.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 65%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_67 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 13.8s;
+          animation-delay: 13.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 66%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_68 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 14s;
+          animation-delay: 14s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 67%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_69 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 14.2s;
+          animation-delay: 14.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 68%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_70 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 14.4s;
+          animation-delay: 14.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 69%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_71 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 14.6s;
+          animation-delay: 14.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 70%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_72 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 14.8s;
+          animation-delay: 14.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 71%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_73 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 15s;
+          animation-delay: 15s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 72%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_74 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 15.2s;
+          animation-delay: 15.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 73%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_75 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 15.4s;
+          animation-delay: 15.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 74%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_76 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 15.6s;
+          animation-delay: 15.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 75%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_77 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 15.8s;
+          animation-delay: 15.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 76%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_78 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 16s;
+          animation-delay: 16s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 77%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_79 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 16.2s;
+          animation-delay: 16.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 78%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_80 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 16.4s;
+          animation-delay: 16.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 79%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_81 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 16.6s;
+          animation-delay: 16.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 80%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_82 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 16.8s;
+          animation-delay: 16.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 81%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_83 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 17s;
+          animation-delay: 17s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 82%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_84 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 17.2s;
+          animation-delay: 17.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 83%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_85 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 17.4s;
+          animation-delay: 17.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 84%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_86 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 17.6s;
+          animation-delay: 17.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 85%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_87 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 17.8s;
+          animation-delay: 17.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 86%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_88 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 18s;
+          animation-delay: 18s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 87%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_89 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 18.2s;
+          animation-delay: 18.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 88%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_90 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 18.4s;
+          animation-delay: 18.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 89%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_91 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 18.6s;
+          animation-delay: 18.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 90%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_92 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 18.8s;
+          animation-delay: 18.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 91%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_93 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 19s;
+          animation-delay: 19s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 92%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_94 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 19.2s;
+          animation-delay: 19.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 93%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_95 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 19.4s;
+          animation-delay: 19.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 94%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_96 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 19.6s;
+          animation-delay: 19.6s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 95%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_97 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 19.8s;
+          animation-delay: 19.8s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 96%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_98 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 20s;
+          animation-delay: 20s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 97%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_99 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 20.2s;
+          animation-delay: 20.2s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 98%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}
+
+.block_100 {
+  -webkit-animation: wave infinite 3s ease-in-out;
+          animation: wave infinite 3s ease-in-out;
+  -webkit-animation-delay: 20.4s;
+          animation-delay: 20.4s;
+  position: absolute;
+  border: 1px solid yellowgreen;
+  margin-top: -25px;
+  left: 99%;
+  top: 25px;
+  height: 25px;
+  width: 10px;
+}
+@keyframes wave {
+  50% {
+    top: 100%;
+    border-color: rgb(130, 40, 40);
+  }
+}/*# sourceMappingURL=s20-2.css.map */

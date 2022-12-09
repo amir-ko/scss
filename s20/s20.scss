@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background:rgb(110, 103, 105)
+}
+main{
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+    width: 50vh;
+    height: 50vh;
+    perspective: 500px;
+    transform-style: preserve-3d;}
+    i{
+        float: left;
+        width: 10vh;
+        height: 10vh;
+        opacity: .8;
+        animation: round 5s ease-in-out infinite;
+        box-shadow: 0 0 8px 0 rgba(0, 0, 0, .15);}
+        @for $i from 1 through 25 {
+            i:nth-child(#{$i} ) {
+                background: rgb($i * 1, 48%, 72%);
+                 animation-delay: $i * .1s;
+                &:hover {
+                 opacity: 1;
+                 &:active {
+                 transform: translateZ(-10px);
+                 opacity: .65;
+            }
+        }
+    }
+}
+@keyframes round {
+    30% {
+      transform: rotate(0) rotateY(180deg) rotateX(0) scale(.5);
+    }
+    60% {
+      transform: rotate(180deg) rotateY(180deg) rotateX(0) scale(.2);
+    }
+    90% , 100% {
+      transform: rotate(180deg) rotateY(180deg) rotateX(180deg);
+    }
+  }
